@@ -1,1 +1,3 @@
-rootProject.name = 'config-server'
+rootProject.name = 'SpringCloud-MSA'
+include("config-server")
+include("config-client")
